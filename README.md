@@ -5,8 +5,8 @@ leading software teams. Founder of InterviewBuddy.com.au & SmartEstimationHub.co
 
 ## 🚀 What I build
 
-- **[InterviewBuddy](https://interviewbuddy.com.au/)** — [AI interview platform matched to 20,000+ Australian companies, roles and cultural profiles — with scored STAR-structure feedback on clarity and confidence.]
-- **[SmartEstimationHub](https://smartestimationhub.com/)** — [a real-time collaborative estimation tool for distributed Agile teams, using SignalR WebSockets for live session synchronisation across participants. Designed, developed, and deployed independently across the full stack]
+- **[InterviewBuddy](https://interviewbuddy.com.au/)** — AI interview platform matched to 20,000+ Australian companies, roles and cultural profiles — with scored STAR-structure feedback on clarity and confidence.
+- **[SmartEstimationHub](https://smartestimationhub.com/)** — a real-time collaborative estimation tool for distributed Agile teams, using SignalR WebSockets for live session synchronisation across participants. Designed, developed, and deployed independently across the full stack.
 
 
 ## 🛠 What I work with
