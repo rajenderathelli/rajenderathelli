@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Rajender 👋
 
-<!--
-**rajenderathelli/rajenderathelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering leader based in Sydney, Australia. I've spent 20+ years building
+and leading software teams. Founder of InterviewBuddy.com.au & SmartEstimationHub.com.
 
-Here are some ideas to get you started:
+🛠️ What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering leadership · .NET / C# · Azure · SQL Server · CI/CD ·
+React ·
+
+💬 What I care about
+Building engineering teams that ship with confidence (tests are non-negotiable)
+Making technology understandable — to stakeholders and to 9-year-olds alike
+
+📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/rajenderathelli/) · athelli_reddy@yahoo.com
